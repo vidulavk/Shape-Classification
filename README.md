@@ -8,7 +8,7 @@ This repository contains the code and implementation for shapes image classifica
 Shapes classification is a fundamental problem in computer vision, and this project demonstrates how to leverage PyTorch to build and train a CNN for this task. The dataset comprises images of various shapes, and the CNN is designed to learn and classify these shapes accurately. The implementation details, including the model architecture, training process, and evaluation, are thoroughly explained in the Medium article.
 
 To get started with the project, follow these steps:
-1.Clone the repository: git clone https://github.com/your-username/shapes-classification.git 
+1.Clone the repository: git clone [https://github.com/your-username/shapes-classification.git ](https://github.com/vidulavk/Shape-Classification)
                         cd shapes-classification
 2.Install the required dependencies
 3.Train the CNN
